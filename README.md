@@ -7,6 +7,7 @@ This is a "meta-list" of lists of companies that use functional programming.
  - [F# companies](https://github.com/fsprojects/fsharp-companies)
  - [Purescript companies](https://github.com/ajnsit/purescript-companies)
  - [Elixir companies](https://github.com/beam-community/elixir-companies)
+ - [Scala companies](https://github.com/chreke/scala-companies)
 
 ## Contributing
 
