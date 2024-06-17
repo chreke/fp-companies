@@ -8,6 +8,7 @@ This is a "meta-list" of lists of companies that use functional programming.
  - [Purescript companies](https://github.com/ajnsit/purescript-companies)
  - [Elixir companies](https://github.com/beam-community/elixir-companies)
  - [Scala companies](https://github.com/chreke/scala-companies)
+ - [Rust companies](https://github.com/omarabid/rust-companies)
 
 ## Contributing
 
